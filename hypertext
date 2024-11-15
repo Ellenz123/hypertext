@@ -1,0 +1,48 @@
+<style>
+    li{
+        list-style-type: none;
+        width: 125px;
+        border:2px solid rgb(222, 216, 135);
+        color:orangered;
+        background-color: burlywood;
+        padding:5px;
+        text-align: center;
+    }
+    li:hover{
+        color: rgb(222, 216, 135);
+        background-color: orangered;
+        transition: 1s;
+        font-weight: bold;
+    }
+    .s1{
+        color:crimson
+    }
+    .s2{
+        color:rgb(255, 0, 0);
+        background-color:burlywood;
+        border:2px solid rgb(166, 124, 235);
+    }
+</style>
+<body>    
+    <h2 class="s1">Egypt, known as the “Land of the Pharaohs”</h2> 
+    <div>It is a country steeped in ancient history and rich cultural heritage. Located in North Africa, Egypt is home to one of the oldest civilizations in the world, dating back over 5,000 years. From the grandeur of the pyramids to the enchanting tales of the Nile River, Egypt has captivated the imaginations of people across the globe.</div>  
+    <div class="s2">The history of ancient Egypt is divided into three main periods:</div>
+    <a href="https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt"><li>The Old Kingdom(about 2,700-2,200 B.C.E.)</li></a>
+    <a href="https://www.worldhistory.org/Middle_Kingdom_of_Egypt/"><li>the Middle Kingdom(2,050-1,800 B.C.E.)</li></a> 
+    <a href="https://www.britannica.com/topic/New-Kingdom-Egyptian-history"><li>the New Kingdom(about 1,550-1,100 B.C.E.)</li></a>
+    <div>During these periods, power passed from one dynasty to another. A dynasty ruled until it was overthrown or there were no heirs left to rule. Each kingdom ended in turmoil either after a period of infighting or after being invaded.</div>
+    <div class="s2">Valley of the Kings</div>
+    <div>The Valley of the Kings, located on the west bank of the Nile, served as the burial ground for pharaohs and powerful nobles of the New Kingdom. It is home to intricate tombs adorned with elaborate artwork.</div>
+    <div class="s2">Pharaohs</div>
+    <div>The pharaohs were the rulers of ancient Egypt and were considered living gods. They held absolute power and were responsible for maintaining Ma’at, the divine order of the world.</div>
+    <div class="s2">Ancient Pyramids</div>
+    <div>Egypt is home to the iconic Great Pyramids of Giza, which were built as tombs for the Pharaohs during the Old Kingdom period. The largest pyramid, the Pyramid of Khufu, is considered one of the Seven Wonders of the Ancient World.</div>
+    <div class="s2">Hieroglyphics</div>
+    <div>Ancient Egyptians developed one of the earliest known systems of writing called hieroglyphics. These intricate and symbolic characters were used to record historical events, religious texts, and everyday life.</div>
+    <div class="s2">Red Sea Riviera</div>
+    <div>The Red Sea Riviera, stretching along Egypt’s eastern coastline, boasts stunning beaches, crystal-clear waters, and vibrant marine life, making it a popular destination for diving and snorkeling.</div>
+    <div class="s2">Conclusion</div>
+    <div>Egypt, with its rich history, magnificent ancient monuments, vibrant culture, and stunning landscapes, is a fascinating country that captivates travelers from all around the world. From the iconic Pyramids of Giza and the mystical Sphinx to the timeless Nile River and the bustling streets of Cairo, Egypt offers a diverse range of experiences that are sure to leave a lasting impression on anyone who visits.</div>
+<table>
+    <img src="ancient egypt.jpeg">
+</table>
